@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "65WTVA72SM.org.nativescript.shopbot",
+                "paths": ["*"]
+            }
+        ]
+    }
+}
